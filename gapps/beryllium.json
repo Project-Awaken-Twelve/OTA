@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1634646449,
-      "size": 1614516049,
-      "filehash": "e809f844a0e6ffc9981e13788dd60eae",
-      "filename": "Awaken-2.0-Kepler-beryllium-OFFICIAL-Gapps-1227-20211019.zip",
-      "id": "ca20bec925c77884df7c7ff03bec9bd7ad5dc2e3807d2a08732ae04c51f58a90",
+      "datetime": 1634730862,
+      "size": 1573452,
+      "filehash": "3705c38b638a5c4a4229b6fba778141f",
+      "filename": "Awaken-2.0-Kepler-beryllium-OFFICIAL-Gapps-1154-20211020.zip",
+      "id": "7890bfd6354aea938a40f7d6f43b1c0e0cb81258b66ffc7605eacadaa05d68b3",
       "romtype": "OFFICIAL",
       "version": "2.0",
-      "url": "https://github.com/Project-Awaken-Twelve/OTA/releases/download/test/Awaken-2.0-Kepler-beryllium-OFFICIAL-Gapps-1227-20211019.zip"
+      "url": "https://github.com/Project-Awaken-Twelve/OTA/releases/download/test2/Awaken-2.0-Kepler-beryllium-OFFICIAL-Gapps-1154-20211020.zip"
     }
   ]
 }
